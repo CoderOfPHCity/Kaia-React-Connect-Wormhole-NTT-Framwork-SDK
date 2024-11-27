@@ -1,6 +1,6 @@
 # Wormhole NTT Connect demo
 
-This project sets up a React TypeScript application and integrates it with the Wormhole Connect SDK.
+This project sets up a React TypeScript application and integrates it with the Wormhole NTT framwork.
 
 ## Prerequisites
 
