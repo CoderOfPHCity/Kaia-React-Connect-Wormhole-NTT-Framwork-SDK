@@ -16,7 +16,7 @@ Ensure you have the following installed on your system:
 First, clone the repository to your local machine:
 
 ```bash
-[git clone https://github.com/wormhole-foundation/demo-ntt-connect.git](https://github.com/CoderOfPHCity/Kaia-React-Connect-Wormhole-NTT-Framwork-SDK)
+git clone https://github.com/CoderOfPHCity/Kaia-React-Connect-Wormhole-NTT-Framwork-SDK
 cd Kaia-wormhole-connect
 ```
 
