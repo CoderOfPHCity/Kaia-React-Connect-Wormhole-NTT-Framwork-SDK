@@ -1,6 +1,6 @@
 # Wormhole NTT Connect demo
 
-This project sets up a Vite-React TypeScript application and integrates it with the Wormhole Connect SDK.
+This project sets up a React TypeScript application and integrates it with the Wormhole Connect SDK.
 
 ## Prerequisites
 
@@ -36,6 +36,10 @@ yarn
 ### 3. Adjust WormholeConnectConfig
 
 Adjust the `WormholeConnectConfig` in `App.tsx` based on the `deployment.json` file from your NTT deployment. This configuration is essential to ensure proper integration with your deployment environment.
+
+Ensure to lookup the docs for easy deployment
+
+ `https://wormhole.com/docs/build/contract-integrations/native-token-transfers/deployment-process/deploy-to-evm/`
 
 ### 4. Run the App
 
